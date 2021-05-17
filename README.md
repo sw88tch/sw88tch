@@ -26,7 +26,14 @@ love learning 👨‍🎓 and getting new experience ✔️
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://i.pinimg.com/originals/d2/9f/c1/d29fc14e3e508b26c3c121c133df174c.png" />][vk]
 [<img align="left" alt="gmail" width="40px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
+<br />
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw88tch&theme=chartreuse-dark&show_icons=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw88tch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 [linkedin]: https://www.linkedin.com/in/kirill-kalinin-524798197/
 [facebook]: https://www.facebook.com/fcukmycopyrights/
