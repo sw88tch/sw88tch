@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kalinin Kirill 👋
 
 love learning 👨‍🎓 and getting new experience ✔️
 
@@ -15,8 +15,6 @@ love learning 👨‍🎓 and getting new experience ✔️
 <img align="left" alt="CSS" width="40px" src="https://pngicon.ru/file/uploads/css3.png" />
 <img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="flask" width="40px" src="https://c0.klipartz.com/pngpicture/939/2/sticker-png-flask-python-web-framework-representational-state-transfer-software-framework-flask-python-web-application-django-tutorial-software-framework-representational-state-transfer-thumbnail.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
 <br />
 
 ---
@@ -40,6 +38,10 @@ love learning 👨‍🎓 and getting new experience ✔️
 
 <!--
 **sw88tch/sw88tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
 
 Here are some ideas to get you started:
 
