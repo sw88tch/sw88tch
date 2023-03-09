@@ -8,7 +8,7 @@ love learning 👨‍🎓 and getting new experience ✔️
 
 <img align="left" alt="Python" width= "40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/452/selenium-test-automation.png" />
-<img align="left" alt="Java Script" width="40px" src="https://raw.githubusercontent.com/file-icons/MFixx/master/svg/javascript.svg" />
+<img align="left" alt="Java Script" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/187_Js-1024.png" />
 <img align="left" alt="Cypress" width="40px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" />
 <img align="left" alt="Mocha" width="40px" src="https://pics.freeicons.io/uploads/icons/png/4500065911551942127-512.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
