@@ -25,7 +25,7 @@ love learning 👨‍🎓 and getting new experience ✔️
 ### You can contact me:
 
 [<img align="left" alt="Facebook" width="40px" src="https://3.bp.blogspot.com/-yuioOHxMZBY/WImcxeSqjAI/AAAAAAAACUA/6eQ5Togw0fEoNT3dFAKRisvIP-lqZL6jACLcB/s1600/vektor+facebook4.png" />][facebook]
-[<img align="left" alt="Instagram" width="40px" src="https://vectorified.com/images/circle-instagram-icon-1.png" />][instagram]
+[<img align="left" alt="Instagram" width="40px" src="https://static.tildacdn.com/tild3261-6637-4131-a262-343332666165/photo.png" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://i.pinimg.com/originals/d2/9f/c1/d29fc14e3e508b26c3c121c133df174c.png" />][vk]
 [<img align="left" alt="gmail" width="40px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
 <br />
