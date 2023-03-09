@@ -8,7 +8,7 @@ love learning 👨‍🎓 and getting new experience ✔️
 
 <img align="left" alt="Python" width= "40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/452/selenium-test-automation.png" />
-<img align="left" alt="Java Script" width="40px" src="https://image.flaticon.com/icons/png/512/541/541509.png" />
+<img align="left" alt="Java Script" width="40px" src="https://raw.githubusercontent.com/file-icons/MFixx/master/svg/javascript.svg" />
 <img align="left" alt="Cypress" width="40px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" />
 <img align="left" alt="Mocha" width="40px" src="https://pics.freeicons.io/uploads/icons/png/4500065911551942127-512.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -24,7 +24,6 @@ love learning 👨‍🎓 and getting new experience ✔️
 
 ### You can contact me:
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://img.flaticon.com/icons/png/512/145/145807.png" />][linkedin]
 [<img align="left" alt="Facebook" width="40px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://i.pinimg.com/originals/d2/9f/c1/d29fc14e3e508b26c3c121c133df174c.png" />][vk]
