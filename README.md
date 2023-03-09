@@ -24,7 +24,7 @@ love learning 👨‍🎓 and getting new experience ✔️
 
 ### You can contact me:
 
-[<img align="left" alt="Facebook" width="40px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebook]
+[<img align="left" alt="Facebook" width="40px" src="https://w7.pngwing.com/pngs/168/713/png-transparent-logo-facebook-inc-social-media-nasdaq-fb-seo-blue-text-trademark.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://i.pinimg.com/originals/d2/9f/c1/d29fc14e3e508b26c3c121c133df174c.png" />][vk]
 [<img align="left" alt="gmail" width="40px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
